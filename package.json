@@ -27,7 +27,7 @@
     "time-bombs": "1.0.0",
     "timediff": "1.1.1",
     "twitter": "1.7.1",
-    "web3": "1.0.0-beta.37"
+    "web3": "1.7.5"
   },
   "devDependencies": {
     "@types/jest": "24.0.15",
